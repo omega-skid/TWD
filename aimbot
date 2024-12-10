@@ -6,7 +6,7 @@ local HyperEscapeAimbot = {
 	Smoothing = 0;
 
 	AimPart = "Head";
-	Keybind = "e";
+	Keybind = "t";
 
 	Fov = 200;
 
